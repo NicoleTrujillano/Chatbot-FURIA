@@ -50,18 +50,6 @@ git clone https://github.com/NicoleTrujillano/Chatbot-FURIA.git
 
 ---
 
-## 📂 Estrutura do Projeto
-```
-Chatbot-FURIA/
-├── src/
-│   └── ChatFuriaGUI.java
-├── imagens/
-│   └── furia_logo.png
-└── README.md
-```
-
----
-
 ## ✍️ Autora
 Nicole Trujillano
 [LinkedIn](https://www.linkedin.com/in/nicole-trujillano-292aa4358/)
