@@ -1,7 +1,6 @@
-# 🐾 Chatbot-FURIA
+# 📖 Instruções de Uso - Chatbot FURIA: Experiência Conversacional FURIA
 
-Chatbot interativo desenvolvido em **Java** com interface gráfica (**JFrame**), criado para os fãs do time de CS:GO **FURIA**.  
-O sistema oferece comandos temáticos, um **quiz divertido**, sistema de **pontuação**, **estatísticas** e **curiosidades** do time.
+Este documento explica, passo a passo, como utilizar o chatbot feito em Java com interface gráfica (Swing), desenvolvido para o desafio Experiência Conversacional FURIA.
 
 ---
 
@@ -13,33 +12,18 @@ O sistema oferece comandos temáticos, um **quiz divertido**, sistema de **pontu
 
 ---
 
-## 📦 Funcionalidades
-
-- Interface amigável com botões e mensagens automáticas
-- Quiz com perguntas sobre o time FURIA
-- Sistema de pontuação
-- Comando `jogo` — recomenda jogos do time FURIA
-- Comando `curiosidade` — exibe curiosidades sobre a equipe
-- Comando `ranking` — simula ou exibe pontuação dos usuários
-- Comando `estatisticas` — mostra dados gerais da FURIA
-- Comando `sair` — fecha o chatbot
-- Feedback visual de acertos e erros
-- Fácil expansão para mais funcionalidades
-
----
-
 ## 🚀 Como executar o projeto
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/Chatbot-FURIA.git
+https://github.com/NicoleTrujillano/Chatbot-FURIA
 ```
 
 ### 2. Importe o projeto para sua IDE
 Abra o projeto no IntelliJ, Eclipse ou outra IDE Java de sua preferência.
 
 ### 3. Compile e execute
-Execute a classe principal (ex: `ChatbotFuria.java`).  
+Execute a classe principal `ChatbotFuria.java`.  
 A interface gráfica será carregada com a área de interação.
 
 ---
@@ -51,24 +35,23 @@ Digite um dos seguintes comandos no campo de texto da interface:
 | Comando       | Função                                                      |
 |---------------|-------------------------------------------------------------|
 | `quiz`        | Inicia o quiz com perguntas sobre o time FURIA              |
-| `jogo`        | Recomenda um jogo marcante da FURIA                         |
+| `jogo`        | Recomenda um jogo da FURIA                                  |
 | `curiosidade` | Mostra uma curiosidade aleatória sobre o time               |
-| `ranking`     | Exibe o ranking ou pontuação acumulada                      |
+| `ranking`     | Exibe o ranking do time                                     |
 | `estatisticas`| Mostra estatísticas gerais da equipe FURIA                  |
-| `sair`        | Encerra o chatbot                                           |
+| `sair`        | Mostra uma mensagem de despedida                            |
 
 ---
 
-## 🛠️ Estrutura do Projeto
-
+## 📂 Estrutura do Projeto
 ```
 Chatbot-FURIA/
 ├── src/
-│   ├── ChatbotFuria.java         # Interface gráfica e lógica do chatbot
-│   ├── Quiz.java                 # Lógica do quiz
-│   └── Pergunta.java             # Classe de perguntas e respostas
-├── README.md
-└── assets/                       # (opcional) imagens, ícones etc.
+│   └── ChatFuriaGUI.java
+├── imagens/
+│   └── furia_logo.png
+├── instrucoes de uso.md
+└── README.md
 ```
 
 ---
@@ -93,17 +76,3 @@ perguntas.add(new Pergunta("Qual jogador é o capitão da FURIA?", "art", new St
 ## 🤝 Contribuições
 
 Sinta-se à vontade para sugerir melhorias, novas perguntas, ou expandir o chatbot com novas funcionalidades.
-
----
-
-## 🏆 Desafio
-
-Este projeto foi desenvolvido como parte do **Challenge #1 – Imersão FURIA 2024**.
-
----
-
-## 📫 Contato
-
-Feito com 💜 por [Seu Nome]  
-GitHub: [https://github.com/seu-usuario](https://github.com/seu-usuario)  
-Email: [seu.email@email.com]
