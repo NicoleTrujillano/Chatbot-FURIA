@@ -4,11 +4,12 @@ Este documento explica, passo a passo, como utilizar o chatbot feito em Java com
 
 ---
 
-## 🖥️ Tecnologias utilizadas
+## 🛠️ Requisitos
 
-- Java (JDK 8 ou superior)
-- Swing (JFrame para GUI)
-- IDE recomendada: IntelliJ IDEA ou Eclipse
+Antes de executar o aplicativo, certifique-se de ter:
+
+- Java JDK 8 ou superior instalado  
+- Um ambiente de desenvolvimento como IntelliJ IDEA, Eclipse ou NetBeans
 
 ---
 
@@ -63,13 +64,6 @@ Você pode adicionar perguntas diretamente na classe `Quiz.java`, em uma lista c
 ```java
 perguntas.add(new Pergunta("Qual jogador é o capitão da FURIA?", "art", new String[]{"art", "KSCERATO", "yuurih"}));
 ```
-
----
-
-## 🧪 Pré-requisitos
-
-- Java JDK 8+ instalado
-- IDE com suporte a Java
 
 ---
 
