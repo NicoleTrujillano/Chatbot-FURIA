@@ -12,7 +12,7 @@ Chatbot interativo feito em Java com interface gráfica (JFrame), desenvolvido p
 - Sistema de pontuação
 - Comando `jogo` — recomenda jogos do time FURIA
 - Comando `curiosidade` — exibe curiosidades sobre a equipe
-- Comando `ranking` — moastra o ranking da FURIA
+- Comando `ranking` — mostra o ranking da FURIA
 - Comando `estatisticas` — mostra dados gerais da FURIA
 - Comando `sair` — exibe uma mensagem de despedida
 - Feedback visual de acertos e erros
