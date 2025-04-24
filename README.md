@@ -1,4 +1,4 @@
-# Chatbot-FURIA
+# Chatbot-FURIA 💬 Challenge #1 - Experiência Conversacional FURIA
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
