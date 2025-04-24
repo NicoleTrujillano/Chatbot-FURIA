@@ -47,6 +47,12 @@ Chatbot-FURIA/
 
 ---
 
+## ✍️ Autora
+Nicole Trujillano
+[LinkedIn](https://www.linkedin.com/in/nicole-trujillano-292aa4358/)
+
+---
+
 ## 🇺🇸 English Description
 
 Interactive chatbot built in Java with a graphical interface (JFrame), designed for fans of the CS:GO team FURIA. It provides a fun experience with team-related quiz questions, a scoring system, and visual feedback.
