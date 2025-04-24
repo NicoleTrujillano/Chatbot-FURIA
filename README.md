@@ -7,11 +7,17 @@ Chatbot interativo feito em Java com interface gráfica (JFrame), desenvolvido p
 ---
 
 ## 🎮 Funcionalidades
-- Interface gráfica com design inspirado na FURIA
-- Quiz com 4 perguntas sobre o time
-- Cálculo automático de pontuação
-- Imagens ilustrativas
-
+- Interface amigável com botões e mensagens automáticas
+- Quiz com perguntas sobre o time FURIA
+- Sistema de pontuação
+- Comando `jogo` — recomenda jogos do time FURIA
+- Comando `curiosidade` — exibe curiosidades sobre a equipe
+- Comando `ranking` — simula ou exibe pontuação dos usuários
+- Comando `estatisticas` — mostra dados gerais da FURIA
+- Comando `sair` — fecha o chatbot
+- Feedback visual de acertos e erros
+- Fácil expansão para mais funcionalidades
+  
 ---
 
 ## 📸 Captura de Tela
@@ -21,6 +27,10 @@ Chatbot interativo feito em Java com interface gráfica (JFrame), desenvolvido p
 
 ## 🎬 Demonstração
 📹 Vídeo de demonstração: https://youtu.be/2_VHEOePdsA?si=1judSgPty1jhBtG5
+
+📄 Documentação detalhada com instruções de uso:
+➡️ `instrucoes-de-uso.md`
+
 
 ---
 
