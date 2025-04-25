@@ -50,6 +50,37 @@ git clone https://github.com/NicoleTrujillano/Chatbot-FURIA.git
 
 ---
 
+## 🧠 Comandos disponíveis no Chatbot
+
+Digite um dos seguintes comandos no campo de texto da interface:
+
+| Comando       | Função                                                      |
+|---------------|-------------------------------------------------------------|
+| `quiz`        | Inicia o quiz com perguntas sobre o time FURIA              |
+| `jogo`        | Recomenda um jogo da FURIA                                  |
+| `curiosidade` | Mostra uma curiosidade aleatória sobre o time               |
+| `ranking`     | Exibe o ranking do time                                     |
+| `estatisticas`| Mostra estatísticas gerais da equipe FURIA                  |
+| `sair`        | Mostra uma mensagem de despedida                            |
+
+---
+
+## 📄 Adicionando novas perguntas ao quiz
+
+Você pode adicionar perguntas diretamente na classe `Quiz.java`, em uma lista como esta:
+
+```java
+perguntas.add(new Pergunta("Qual jogador é o capitão da FURIA?", "art", new String[]{"art", "KSCERATO", "yuurih"}));
+```
+
+---
+
+## 🤝 Contribuições
+
+Sinta-se à vontade para sugerir melhorias, novas perguntas, ou expandir o chatbot com novas funcionalidades.
+
+---
+
 ## ✍️ Autora
 Nicole Trujillano
 [LinkedIn](https://www.linkedin.com/in/nicole-trujillano-292aa4358/)
