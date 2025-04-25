@@ -28,10 +28,6 @@ Chatbot interativo feito em Java com interface gráfica (JFrame), desenvolvido p
 ## 🎬 Demonstração
 📹 Vídeo de demonstração: https://youtu.be/2_VHEOePdsA?si=1judSgPty1jhBtG5
 
-📄 Documentação detalhada com instruções de uso:
-➡️ `instrucoes-de-uso.md`
-
-
 ---
 
 ## 🚀 Como executar
